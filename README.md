@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Stock Portfolio Manager — AI-Powered
+# 🇮🇳 Smart Portfolio Manager AI
 
 An end-to-end AI portfolio management system for Indian stock markets (NSE/BSE) using RAG, multi-source data, and LLM reasoning.
 
@@ -54,8 +54,8 @@ indian-portfolio-manager/
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/indian-portfolio-manager
-cd indian-portfolio-manager
+git clone https://github.com/mehulbafna/smart-portfolio-manager-ai
+cd smart-portfolio-manager-ai
 pip install -r requirements.txt
 ```
 
