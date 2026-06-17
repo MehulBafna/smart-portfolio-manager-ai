@@ -1,0 +1,32 @@
+# Core
+streamlit==1.35.0
+plotly==5.22.0
+pandas==2.2.2
+numpy==1.26.4
+
+# Data Collection
+yfinance==0.2.40
+requests==2.32.3
+beautifulsoup4==4.12.3
+feedparser==6.0.11
+newsapi-python==0.2.7
+
+# RAG & Embeddings
+qdrant-client==1.9.1
+sentence-transformers==3.0.1
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-anthropic==0.1.19
+tiktoken==0.7.0
+
+# LLM
+anthropic==0.28.0
+
+# Scheduling
+prefect==2.19.7
+
+# Utils
+python-dotenv==1.0.1
+pydantic==2.7.4
+tenacity==8.3.0
+ta==0.11.0

@@ -1,0 +1,67 @@
+{
+  "holdings": [
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "Reliance Industries",
+      "qty": 10,
+      "avg_price": 2500.00,
+      "sector": "Energy & Conglomerate"
+    },
+    {
+      "ticker": "INFY.NS",
+      "name": "Infosys",
+      "qty": 25,
+      "avg_price": 1450.00,
+      "sector": "IT"
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "name": "HDFC Bank",
+      "qty": 15,
+      "avg_price": 1600.00,
+      "sector": "Banking"
+    },
+    {
+      "ticker": "TCS.NS",
+      "name": "Tata Consultancy Services",
+      "qty": 8,
+      "avg_price": 3800.00,
+      "sector": "IT"
+    },
+    {
+      "ticker": "TATAMOTORS.NS",
+      "name": "Tata Motors",
+      "qty": 50,
+      "avg_price": 850.00,
+      "sector": "Automobile"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "name": "Wipro",
+      "qty": 40,
+      "avg_price": 450.00,
+      "sector": "IT"
+    },
+    {
+      "ticker": "SBIN.NS",
+      "name": "State Bank of India",
+      "qty": 30,
+      "avg_price": 750.00,
+      "sector": "Banking"
+    },
+    {
+      "ticker": "ADANIENT.NS",
+      "name": "Adani Enterprises",
+      "qty": 5,
+      "avg_price": 2800.00,
+      "sector": "Conglomerate"
+    }
+  ],
+  "watchlist": [
+    "BAJFINANCE.NS",
+    "PIDILITIND.NS",
+    "DMART.NS",
+    "TITAN.NS",
+    "ZOMATO.NS"
+  ]
+}
