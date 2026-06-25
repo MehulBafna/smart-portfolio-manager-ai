@@ -3,6 +3,11 @@ Main Streamlit App — Indian Portfolio Manager
 Entry point for the dashboard.
 """
 
+from dotenv import load_dotenv
+import os
+load_dotenv()
+os.environ["ANTHROPIC_API_KEY"] = os.getenv("ANTHROPIC_API_KEY", "")
+
 import streamlit as st
 import sys, os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
